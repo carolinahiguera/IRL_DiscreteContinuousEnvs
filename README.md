@@ -23,3 +23,14 @@ To run the script:
 ```
 python makeExpert.py
 ```
+## Training an agent with IRL
+To run the script:
+```
+python train.py
+```
+
+## Testing the policy
+To run the script:
+```
+python test.py
+```
